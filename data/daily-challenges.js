@@ -947,6 +947,69 @@ globalThis.SongavelerDailyChallenges = Object.freeze({
             requiredConnections: 1,
             requiredLinkedSongs: 50,
             sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-16": Object.freeze({
+            startId: "138",
+            endId: "437",
+            startName: "The Notorious B.I.G.",
+            endName: "Lil Yachty",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-17": Object.freeze({
+            startId: "307",
+            endId: "53",
+            startName: "Bladee",
+            endName: "Pharrell Williams",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-18": Object.freeze({
+            startId: "265",
+            endId: "74",
+            startName: "Metro Boomin",
+            endName: "Kanye West",
+            requiredConnections: 1,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-19": Object.freeze({
+            startId: "4438",
+            endId: "164",
+            startName: "bbno$",
+            endName: "Charli xcx",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-20": Object.freeze({
+            startId: "756",
+            endId: "173",
+            startName: "KAYTRANADA",
+            endName: "A$AP Rocky",
+            requiredConnections: 2,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-21": Object.freeze({
+            startId: "756",
+            endId: "642",
+            startName: "KAYTRANADA",
+            endName: "DaBaby",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-22": Object.freeze({
+            startId: "4438",
+            endId: "102",
+            startName: "bbno$",
+            endName: "David Guetta",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
         })
     })
 });
