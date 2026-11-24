@@ -1019,6 +1019,15 @@ globalThis.SongavelerDailyChallenges = Object.freeze({
             requiredConnections: 3,
             requiredLinkedSongs: 50,
             sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-24": Object.freeze({
+            startId: "307",
+            endId: "19",
+            startName: "Bladee",
+            endName: "Playboi Carti",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
         })
     })
 });
