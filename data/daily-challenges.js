@@ -1055,6 +1055,15 @@ globalThis.SongavelerDailyChallenges = Object.freeze({
             requiredConnections: 3,
             requiredLinkedSongs: 50,
             sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
+        }),
+        "2026-11-28": Object.freeze({
+            startId: "1399",
+            endId: "341",
+            startName: "The Chainsmokers",
+            endName: "Mark Ronson",
+            requiredConnections: 3,
+            requiredLinkedSongs: 50,
+            sourceDatabaseGeneratedAt: "2026-09-13T18:21:00Z"
         })
     })
 });
